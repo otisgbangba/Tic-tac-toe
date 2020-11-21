@@ -1,2 +1,3 @@
 # Tic-tac-toe
 Tic-Tac-Toe is a game that is meant to be played in such a way that players will position their marks in such a way that they make a continuous line of three cells vertically, horizontally, or diagonally. An opponent can prevent a win by blocking the completion of the opponent's line. In our variant of the game, players placed objects on a board.
+This game of is of interest to me due to its logics. It is also a zero-sum and perfect information game. It means that each participant's gain is equal to the other participants' losses and we know everything about the current game state. In a two-player (A vs B) game, if player A scores x points (utility units), player B loses x points.
